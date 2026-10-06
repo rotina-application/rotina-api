@@ -1,0 +1,13 @@
+package io.github.projetorotina.rotina_api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RotinaApiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RotinaApiApplication.class, args);
+	}
+
+}
